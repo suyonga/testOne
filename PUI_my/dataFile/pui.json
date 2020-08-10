@@ -1,0 +1,24 @@
+
+{
+    "name":"value",
+	
+    "secondName":{"thirdName":"thirdValue"},
+	
+    "controlWidget":[
+	
+        {"className":"1","content":"pushButton","x":"10","y":"420","width":"150","height":"30","text":""},
+		
+		{"className":"2","content":"","x":"10","y":"5","width":"150","height":"30","text":"combox1/combox2/combox3"},
+		
+		{"className":"3","content":"I am lineEdit","x":"200","y":"5","width":"150","height":"30","text":""},
+		
+		{"className":"4","content":"I am label","x":"400","y":"3","width":"150","height":"30","text":""},
+		
+		{"className":"5","content":"","x":"10","y":"100","width":"200","height":"200","text":"测试列表列1/测试列表列2/测试列表列3/测试列表列4"},
+		
+		{"className":"6","content":"","x":"300","y":"100","width":"200","height":"200","text":"测试树表1/测试树表2/测试树表3"},
+		
+		{"className":"7","content":"checkBox","x":"10","y":"320","width":"150","height":"30","text":""},
+		
+        {"className":"1","content":"pushButton2","x":"50","y":"350","width":"250","height":"30","text":""}]
+}

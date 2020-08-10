@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget class="QMainWindow" name="MainWindow">
+	<QPushButton className="1" content="pushButton" x="10" y="420" width="150" height="30" text=""/>
+	<QComboBox className="2" content="" x="10" y="5" width="150" height="30" text="combox1/combox2/combox3"/>
+	<QLineEdit className="3" content="I am lineEdit" x="200" y="5" width="150" height="30" text=""/>
+	<Qlabel className="4" content="I am label" x="400" y="5" width="150" height="30" text=""/>
+	<QListWidget className="5" content="" x="10" y="100" width="200" height="200" text="测试列表列1/测试列表列2/测试列表列3/测试列表列4"/>
+	<QTreeWidget className="6" content="" x="300" y="100" width="200" height="200" text="测试树表1/测试树表2/测试树表3"/>
+	<QCHeckBox className="7" content="checkBox" x="10" y="320" width="150" height="30" text=""/>
+	<QPushButton className="1" content="pushButton2" x="50" y="380" width="250" height="30" text=""/>
+</widget>
